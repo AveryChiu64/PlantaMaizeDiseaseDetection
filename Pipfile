@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "*"
+jupyterlab = "*"
+watermark = "*"
+pycocotools = "*"
+pandas = "*"
+torchvision = "==0.8.2"
+onnx = "==1.8.1"
+mock = "*"
+torchaudio = "==0.7.2"
+torch = "==1.7.1"
+opencv-python = "*"
+seaborn = "*"
+cython = "*"
+pyyaml = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
