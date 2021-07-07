@@ -41,3 +41,5 @@ Open the jupyer notebook by running and run the notebooks according to the model
 jupyter lab
 ```
 
+# Sample Output
+![corn](https://user-images.githubusercontent.com/37023871/124835716-c2e30380-df4f-11eb-9c97-b85b130b11c9.jpeg)
