@@ -1,5 +1,5 @@
 # Planta Maize Disease 
-This project compares object detection models using Detectron2 on a dataset of corn for detecting Planta Maize disease
+This project compares multiple object detection models and uses them to detect symptoms of Northern Leaf Blight in maize
 
 # Installation
 Install the correct version of detectron2 based on your CUDA version
@@ -32,12 +32,12 @@ python -m detectron2.utils.collect_env
 ```
 
 # Usage
-Ensure to download the images and annotations from
+Ensure to download the handheld images and annotations from
 https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-018-3548-6/tables/1
-
+Move the annotations_handheld.csv and rename the handheld images folder to `original_images`
 
 Open the jupyer notebook by running and run the notebooks according to the model names
 ```bash
-jupyer lab
+jupyter lab
 ```
 
