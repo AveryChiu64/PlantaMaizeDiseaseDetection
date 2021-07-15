@@ -44,3 +44,6 @@ Open the jupyer notebook by running and run the notebooks according to the model
 ```bash
 jupyter lab
 ```
+
+# Sources
+https://github.com/Musbell/Maize-disease-detection
