@@ -2,6 +2,9 @@
 This project compares multiple object detection models and uses them to detect symptoms of Northern Leaf Blight in maize
 ![corn](https://user-images.githubusercontent.com/37023871/124835716-c2e30380-df4f-11eb-9c97-b85b130b11c9.jpeg)
 
+![download](https://user-images.githubusercontent.com/37023871/125842173-2dd1c324-81ce-45e7-bf7b-f8c4e67e06ef.jpg)
+![truth](https://user-images.githubusercontent.com/37023871/125842178-6d54793d-ed86-4500-835c-b50342d66dc7.jpg)
+
 # Installation
 Install the correct version of detectron2 based on your CUDA version
 Run `nvidia-smi` to check your CUDA version
